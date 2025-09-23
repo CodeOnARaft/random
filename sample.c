@@ -1,4 +1,4 @@
-Here is a small C program that will display as much text as it can in the box size. It will update the box when you press space and cycle through the messages once.
+
 #include "include/raylib.h"
 #include <stddef.h>
 
